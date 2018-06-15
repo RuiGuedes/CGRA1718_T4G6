@@ -17,7 +17,6 @@ César Alexandre da Costa Pinho <br>
 
 ## Final Project Demo 
 -----
-
-  De seguida encontra-se especificado simultaneamente a interface gráfica do jogo desenvolvido bem como o seu manual de utilização, isto é, como proceder para utilização do mesmo. 
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yKx7VCVOLuY/0.jpg)](https://www.youtube.com/watch?v=yKx7VCVOLuY)
+  The following link shows the final project status through a one minute video:
+  
+  * **_Demo link_** - https://www.youtube.com/watch?v=yKx7VCVOLuY
